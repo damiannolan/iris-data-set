@@ -22,6 +22,8 @@ The original Problem Set can be found [HERE!](https://emerging-technologies.gith
 All of the Python code relating to the Problem Set linked above can be found in the juptyer notebook housed in this
 repository, which also contains some markdown cells relevant to the tasks being carried out.
 
+[Iris Data Jupyter Notebook](https://github.com/damiannolan/iris-data-set/blob/master/iris-data-set.ipynb)
+
 ## Problem Set
 
 ### 1. Get and load the data
